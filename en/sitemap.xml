@@ -3,343 +3,343 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://examplesite.com/billing-pricing/ownership/</loc>
+    <loc>https://nasph-io.github.io/docs/billing-pricing/ownership/</loc>
     <lastmod>2020-01-05T10:42:26+06:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="https://examplesite.com/fr/billing-pricing/ownership/"
+                href="https://nasph-io.github.io/docs/fr/billing-pricing/ownership/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://examplesite.com/billing-pricing/ownership/"
+                href="https://nasph-io.github.io/docs/billing-pricing/ownership/"
                 />
   </url>
   
   <url>
-    <loc>https://examplesite.com/features/linux/</loc>
+    <loc>https://nasph-io.github.io/docs/features/linux/</loc>
     <lastmod>2020-01-05T10:42:26+06:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="https://examplesite.com/fr/features/linux/"
+                href="https://nasph-io.github.io/docs/fr/features/linux/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://examplesite.com/features/linux/"
+                href="https://nasph-io.github.io/docs/features/linux/"
                 />
   </url>
   
   <url>
-    <loc>https://examplesite.com/installation/requirments/</loc>
+    <loc>https://nasph-io.github.io/docs/installation/requirments/</loc>
     <lastmod>2020-01-05T10:42:26+06:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="https://examplesite.com/fr/installation/requirments/"
+                href="https://nasph-io.github.io/docs/fr/installation/requirments/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://examplesite.com/installation/requirments/"
+                href="https://nasph-io.github.io/docs/installation/requirments/"
                 />
   </url>
   
   <url>
-    <loc>https://examplesite.com/installation/install/</loc>
+    <loc>https://nasph-io.github.io/docs/installation/install/</loc>
     <lastmod>2020-01-05T10:42:26+06:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="https://examplesite.com/fr/installation/install/"
+                href="https://nasph-io.github.io/docs/fr/installation/install/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://examplesite.com/installation/install/"
+                href="https://nasph-io.github.io/docs/installation/install/"
                 />
   </url>
   
   <url>
-    <loc>https://examplesite.com/features/mac/</loc>
+    <loc>https://nasph-io.github.io/docs/features/mac/</loc>
     <lastmod>2020-01-05T10:42:26+06:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="https://examplesite.com/fr/features/mac/"
+                href="https://nasph-io.github.io/docs/fr/features/mac/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://examplesite.com/features/mac/"
+                href="https://nasph-io.github.io/docs/features/mac/"
                 />
   </url>
   
   <url>
-    <loc>https://examplesite.com/billing-pricing/manage/</loc>
+    <loc>https://nasph-io.github.io/docs/billing-pricing/manage/</loc>
     <lastmod>2020-01-05T10:42:26+06:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="https://examplesite.com/fr/billing-pricing/manage/"
+                href="https://nasph-io.github.io/docs/fr/billing-pricing/manage/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://examplesite.com/billing-pricing/manage/"
+                href="https://nasph-io.github.io/docs/billing-pricing/manage/"
                 />
   </url>
   
   <url>
-    <loc>https://examplesite.com/installation/configuration/</loc>
+    <loc>https://nasph-io.github.io/docs/installation/configuration/</loc>
     <lastmod>2020-01-05T10:42:26+06:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="https://examplesite.com/fr/installation/configuration/"
+                href="https://nasph-io.github.io/docs/fr/installation/configuration/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://examplesite.com/installation/configuration/"
+                href="https://nasph-io.github.io/docs/installation/configuration/"
                 />
   </url>
   
   <url>
-    <loc>https://examplesite.com/billing-pricing/bill/</loc>
+    <loc>https://nasph-io.github.io/docs/billing-pricing/bill/</loc>
     <lastmod>2020-01-05T10:42:26+06:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="https://examplesite.com/fr/billing-pricing/bill/"
+                href="https://nasph-io.github.io/docs/fr/billing-pricing/bill/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://examplesite.com/billing-pricing/bill/"
+                href="https://nasph-io.github.io/docs/billing-pricing/bill/"
                 />
   </url>
   
   <url>
-    <loc>https://examplesite.com/features/routing/</loc>
+    <loc>https://nasph-io.github.io/docs/features/routing/</loc>
     <lastmod>2020-01-05T10:42:26+06:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="https://examplesite.com/fr/features/routing/"
+                href="https://nasph-io.github.io/docs/fr/features/routing/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://examplesite.com/features/routing/"
+                href="https://nasph-io.github.io/docs/features/routing/"
                 />
   </url>
   
   <url>
-    <loc>https://examplesite.com/billing-pricing/payment/</loc>
+    <loc>https://nasph-io.github.io/docs/billing-pricing/payment/</loc>
     <lastmod>2020-01-05T10:42:26+06:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="https://examplesite.com/fr/billing-pricing/payment/"
+                href="https://nasph-io.github.io/docs/fr/billing-pricing/payment/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://examplesite.com/billing-pricing/payment/"
+                href="https://nasph-io.github.io/docs/billing-pricing/payment/"
                 />
   </url>
   
   <url>
-    <loc>https://examplesite.com/installation/customization/</loc>
+    <loc>https://nasph-io.github.io/docs/installation/customization/</loc>
     <lastmod>2020-01-05T10:42:26+06:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="https://examplesite.com/fr/installation/customization/"
+                href="https://nasph-io.github.io/docs/fr/installation/customization/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://examplesite.com/installation/customization/"
+                href="https://nasph-io.github.io/docs/installation/customization/"
                 />
   </url>
   
   <url>
-    <loc>https://examplesite.com/features/ubuntu/</loc>
+    <loc>https://nasph-io.github.io/docs/features/ubuntu/</loc>
     <lastmod>2020-01-05T10:42:26+06:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="https://examplesite.com/fr/features/ubuntu/"
+                href="https://nasph-io.github.io/docs/fr/features/ubuntu/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://examplesite.com/features/ubuntu/"
+                href="https://nasph-io.github.io/docs/features/ubuntu/"
                 />
   </url>
   
   <url>
-    <loc>https://examplesite.com/installation/elements/</loc>
+    <loc>https://nasph-io.github.io/docs/installation/elements/</loc>
     <lastmod>2020-01-05T10:42:26+06:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="https://examplesite.com/fr/installation/elements/"
+                href="https://nasph-io.github.io/docs/fr/installation/elements/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://examplesite.com/installation/elements/"
+                href="https://nasph-io.github.io/docs/installation/elements/"
                 />
   </url>
   
   <url>
-    <loc>https://examplesite.com/billing-pricing/profile/</loc>
+    <loc>https://nasph-io.github.io/docs/billing-pricing/profile/</loc>
     <lastmod>2020-01-05T10:42:26+06:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="https://examplesite.com/fr/billing-pricing/profile/"
+                href="https://nasph-io.github.io/docs/fr/billing-pricing/profile/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://examplesite.com/billing-pricing/profile/"
+                href="https://nasph-io.github.io/docs/billing-pricing/profile/"
                 />
   </url>
   
   <url>
-    <loc>https://examplesite.com/features/windows/</loc>
+    <loc>https://nasph-io.github.io/docs/features/windows/</loc>
     <lastmod>2020-01-05T10:42:26+06:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="https://examplesite.com/fr/features/windows/"
+                href="https://nasph-io.github.io/docs/fr/features/windows/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://examplesite.com/features/windows/"
+                href="https://nasph-io.github.io/docs/features/windows/"
                 />
   </url>
   
   <url>
-    <loc>https://examplesite.com/installation/</loc>
+    <loc>https://nasph-io.github.io/docs/installation/</loc>
     <lastmod>2018-12-29T11:02:05+06:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="https://examplesite.com/fr/installation/"
+                href="https://nasph-io.github.io/docs/fr/installation/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://examplesite.com/installation/"
+                href="https://nasph-io.github.io/docs/installation/"
                 />
   </url>
   
   <url>
-    <loc>https://examplesite.com/</loc>
+    <loc>https://nasph-io.github.io/docs/</loc>
     <lastmod>2020-01-05T10:42:26+06:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="https://examplesite.com/fr/"
+                href="https://nasph-io.github.io/docs/fr/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://examplesite.com/"
+                href="https://nasph-io.github.io/docs/"
                 />
   </url>
   
   <url>
-    <loc>https://examplesite.com/billing-pricing/</loc>
+    <loc>https://nasph-io.github.io/docs/billing-pricing/</loc>
     <lastmod>2018-12-28T11:02:05+06:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="https://examplesite.com/fr/billing-pricing/"
+                href="https://nasph-io.github.io/docs/fr/billing-pricing/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://examplesite.com/billing-pricing/"
+                href="https://nasph-io.github.io/docs/billing-pricing/"
                 />
   </url>
   
   <url>
-    <loc>https://examplesite.com/features/</loc>
+    <loc>https://nasph-io.github.io/docs/features/</loc>
     <lastmod>2018-12-28T11:02:05+06:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="https://examplesite.com/fr/features/"
+                href="https://nasph-io.github.io/docs/fr/features/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://examplesite.com/features/"
+                href="https://nasph-io.github.io/docs/features/"
                 />
   </url>
   
   <url>
-    <loc>https://examplesite.com/categories/</loc>
+    <loc>https://nasph-io.github.io/docs/categories/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="https://examplesite.com/fr/categories/"
+                href="https://nasph-io.github.io/docs/fr/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://examplesite.com/categories/"
+                href="https://nasph-io.github.io/docs/categories/"
                 />
   </url>
   
   <url>
-    <loc>https://examplesite.com/faq/</loc>
+    <loc>https://nasph-io.github.io/docs/faq/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="https://examplesite.com/fr/faq/"
+                href="https://nasph-io.github.io/docs/fr/faq/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://examplesite.com/faq/"
+                href="https://nasph-io.github.io/docs/faq/"
                 />
   </url>
   
   <url>
-    <loc>https://examplesite.com/contact/</loc>
+    <loc>https://nasph-io.github.io/docs/contact/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="https://examplesite.com/fr/contact/"
+                href="https://nasph-io.github.io/docs/fr/contact/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://examplesite.com/contact/"
+                href="https://nasph-io.github.io/docs/contact/"
                 />
   </url>
   
   <url>
-    <loc>https://examplesite.com/tags/</loc>
+    <loc>https://nasph-io.github.io/docs/tags/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="https://examplesite.com/fr/tags/"
+                href="https://nasph-io.github.io/docs/fr/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://examplesite.com/tags/"
+                href="https://nasph-io.github.io/docs/tags/"
                 />
   </url>
   
